@@ -1,10 +1,6 @@
-# StrafeMod® - STRAFE® Modding
+# StrafeMod® - STRAFE® Mod-Loader
 ### A mod-loader for the game STRAFE®
 ##### MIT-licensed
-----
-
-This is a Mod-Loader for Strafe®
-
 ----
 
 ### based on [YLMAPI](https://github.com/YLMAPI/YLMAPI)
