@@ -1,5 +1,5 @@
 # StrafeMod® - STRAFE® Modding
-### Yet another mod-loader for the game STRAFE®
+### A mod-loader for the game STRAFE®
 ##### MIT-licensed
 ----
 
