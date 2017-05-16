@@ -12,3 +12,4 @@
 * Runtime scene content patching
 * Replace "Yooka-Laylee" with STRAFE
 * *Replace YL-dependant code with STRAFE-dependant code (f.e. ModInput, ModContent)
+* Create Some Sick Ass Mods 😎
