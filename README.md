@@ -4,7 +4,7 @@
 
 ## StrafeMod® - STRAFE® Mod-Loader
 ### A mod-loader for the game STRAFE®
-##### MIT-licensed 
+##### [MIT-licensed](https://github.com/Cinderrino/StrafeMod/blob/master/License) 
 
 ----
 
