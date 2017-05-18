@@ -23,6 +23,6 @@
 ----
 
 # Credits:
-* [OxOade](https://www.reddit.com/user/0x0ade)
+* [OxOade](https://twitter.com/0x0ade)
 * [Cinder](https://www.reddit.com/user/thetruewhitewolf)
 * More will be added soon™! 
